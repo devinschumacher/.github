@@ -1,11 +1,13 @@
 # README
 
-**Passion projects**
+**Hobby projects**
 - https://devinschumacher.github.io/
 - https://devinschumacher.github.io/boxing/
 - https://devinschumacher.github.io/books/
 - https://devinschumacher.github.io/ai-agents/
 - https://devinschumacher.github.io/disk-prices/
+- https://github.com/devinschumacher/serp.media
+- https://github.com/devinschumacher/bestalternativesreview.com
 
 
 
